@@ -11,6 +11,22 @@
 </head>
 <body style="background-color:white;">
 <div class="profile">
+<style>
+.overlay {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: white;
+            font-size: 50px;
+            font-weight: bold;
+            font-family: monospace;
+            text-shadow: 2px 2px 5px black;
+</style>
+<div class="overlay">
+ <div class="overlay">BS Entertainment and Multimedia Computing</div>
+    </div>
+
 <img class="computer" src="https://online.umn.edu/sites/online.umn.edu/files/computer-science-101_banner_1500x500.jpg">
 <style>
 .city {
@@ -84,23 +100,6 @@ table, th, td {
     <td>Capstone Manuscript</td>
   </tr>
 </table>
-
-<style>
-.overlay {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            color: white;
-            font-size: 50px;
-            font-weight: bold;
-            font-family: monospace;
-            text-shadow: 2px 2px 5px black;
-</style>
- <div class="overlay">
-        <div class="overlay">BS Entertainment and Multimedia Computing</div>
-    </div>
-
 </body>
 </html>
  
