@@ -54,8 +54,7 @@ body {
 	background-attachment: fixed;
 
 }
- 
-div.profile {
+ div.profile {
 
 	background-color: #212f3d;
 
@@ -72,8 +71,7 @@ div.profile {
 	position: fixed;
 
 }
- 
-div.main {
+ div.main {
 
 	background-color: #212f3d;
 
@@ -88,8 +86,7 @@ div.main {
 	width: 70%;
 
 }
- 
-img.pfp {
+ img.pfp {
 
 	border-radius: 10px;
 
@@ -98,16 +95,14 @@ img.pfp {
 	height: 50%;
 
 }
- 
-div.main img {
+ div.main img {
 
 	width: 32%;
 
 	height: 32%;
 
 }
- 
-div.links {
+ div.links {
 
 	display: flex;
 
@@ -118,8 +113,7 @@ div.links {
 	padding: 4px;
 
 }
- 
-div.links button {
+ div.links button {
 
 	padding: 10px;
 
