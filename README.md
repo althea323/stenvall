@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8">
@@ -10,15 +11,7 @@
 </head>
 <body style="background-color:white;">
 <div class="profile">
-<img class="pfp" src="https://t4.ftcdn.net/jpg/02/15/84/43/360_F_215844325_ttX9YiIIyeaR7Ne6EaLLjMAmy4GvPC69.jpg">
-<h2>Computer Science Student Portfolio</h2>
-<p>Aspiring Chief Information Officer</p>
-<br>
-<p>Catriona Elisa Magnayon Gray</p>
-<p>cemgray@mymail.mapua.edu.ph</p>
-<p>Bachelor of Science in Information Systems</p>
-<p>Mapúa University </p>
-</div>
+<img class="computer" src="https://online.umn.edu/sites/online.umn.edu/files/computer-science-101_banner_1500x500.jpg">
 <style>
 .city {
   background-color: beige;
@@ -27,7 +20,16 @@
   margin: 20px;
   padding: 20px;
 }
-</style> 
+</style>
+<div class="city">
+<h2>Computer Science Student Portfolio</h2>
+<p>Aspiring Chief Information Officer</p>
+<br>
+<p>Catriona Elisa Magnayon Gray</p>
+<p>cemgray@mymail.mapua.edu.ph</p>
+<p>Bachelor of Science in Information Systems</p>
+<p>Mapúa University </p>
+</div> 
 	<div class="main">
 <div class="links">
 <button><a href="index.html">About</a></button>
@@ -47,6 +49,57 @@
 </p>
 <p>2018.
 </div>
+<div class="city">
+      <h3>Student Outcomes</h3>
+<p>CSS124L: Event Driven/ GUI Programming Lab Project Rubric n Screenshots.
+</p>
+<p>ECS109: Research Methods for Game Development Report n Grading Sheet.<p/>
+<p>ECS131: Design and Production Process Summative Exam Score</p>
+<p>ECS122L: Advanced Game Design Lab Project Rubric n Screenshots</p>
+<p>ECS160L: Game Production Lab Project Rubric n Screenshots</p>
+<p>ECS151: Game Programming 1 Summative Exam Score</p>
+<p>ECS151L:Game Programming 1 Lab Project Rubric n Screenshots
+</p>
+</div>
+<table>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<body>
+
+
+<table style="width:100%">
+  <tr>
+    <th>Course</th>
+    <th>Artifacts</th>
+  </tr>
+  <tr>
+    <td>ECS200-1: Capstone Project 1</td>
+    <td>ECS200-3: Capstone Project 3</td>
+  </tr>
+  <tr>
+    <td>Capstone Proposal</td>
+    <td>Capstone Manuscript</td>
+  </tr>
+</table>
+
+<style>
+.overlay {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: white;
+            font-size: 50px;
+            font-weight: bold;
+            font-family: monospace;
+            text-shadow: 2px 2px 5px black;
+</style>
+ <div class="overlay">
+        <div class="overlay">BS Entertainment and Multimedia Computing</div>
+    </div>
 
 </body>
 </html>
