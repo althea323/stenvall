@@ -9,7 +9,7 @@
 <link rel="pre-connect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@300&display=swap" rel="stylesheet">
 </head>
-<body style="background-color:white;">
+<body style="background-color:#FFFFFF;">
 <div class="profile">
 <style>
 .overlay {
@@ -29,9 +29,9 @@
 <img class="computer" src="https://online.umn.edu/sites/online.umn.edu/files/computer-science-101_banner_1500x500.jpg">
 <style>
 .city {
-  background-color:steel-blue;
-  color: White;
-  border: 2px solid black;
+  background-color:#4682B4;
+  color: #FFFFFF;
+  border: 2px #000000;
   margin: 10px;
   padding: 10px;
 }
@@ -85,5 +85,4 @@
       
 
 </body>
-</html>
  
