@@ -8,9 +8,8 @@
 <link rel="pre-connect" href="https://fonts.googleapis.com">
 <link rel="pre-connect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@300&display=swap" rel="stylesheet">
-</head>
-<body style="background-color:#FFFFFF;">
-<div class="profile">
+<body style="background-color:#C38579;">
+</body>
 <style>
 .overlay {
             position: absolute;
